@@ -5,6 +5,7 @@
 #include<fstream.h>
 #include<process.h>
 #include<graphics.h>
+
 class student
   {int clas,rollno ,dd,mm,yy;                                               //class,rollno and date of birth
     char sec,house[15];                                                    //name of student, section and house
